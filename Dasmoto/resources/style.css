@@ -1,0 +1,46 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("file:///C:/Users/Savannah/Documents/A_Programming/Code%20Academy/projects/Dasmoto/resources/pattern.jpeg");
+  }
+
+h3 {
+  font-size: 24px;
+  color: black;
+  font-weight: bold;
+}
+
+p {
+  font-size: 20px;
+  color: black;
+  font-weight: normal;
+}
+
+.section {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#brushes {
+  background-color: mediumspringgreen;
+}
+
+#frames {
+  background-color: lightcoral;
+}
+
+#paint {
+  background-color: skyblue;
+}
+
+.emphblue {
+  color: blue;
+  font-weight: bold;
+}
